@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\bin\Debug\net5.0\GenericNodeApp.exe
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\bin\Debug\net5.0\GenericNodeApp.deps.json
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\bin\Debug\net5.0\GenericNodeApp.runtimeconfig.json
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\bin\Debug\net5.0\GenericNodeApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\bin\Debug\net5.0\GenericNodeApp.dll
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\bin\Debug\net5.0\ref\GenericNodeApp.dll
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\bin\Debug\net5.0\GenericNodeApp.pdb
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\obj\Debug\net5.0\GenericNodeApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\obj\Debug\net5.0\GenericNodeApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\obj\Debug\net5.0\GenericNodeApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\obj\Debug\net5.0\GenericNodeApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\obj\Debug\net5.0\GenericNodeApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\obj\Debug\net5.0\GenericNodeApp.dll
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\obj\Debug\net5.0\ref\GenericNodeApp.dll
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\obj\Debug\net5.0\GenericNodeApp.pdb
+E:\SwabhavTech\C#\DesignPattern\GenericNodeApp\GenericNodeApp\obj\Debug\net5.0\GenericNodeApp.genruntimeconfig.cache

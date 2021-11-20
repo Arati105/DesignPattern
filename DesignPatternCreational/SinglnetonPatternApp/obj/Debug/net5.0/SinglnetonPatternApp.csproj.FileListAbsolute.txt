@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\bin\Debug\net5.0\SinglnetonPatternApp.exe
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\bin\Debug\net5.0\SinglnetonPatternApp.deps.json
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\bin\Debug\net5.0\SinglnetonPatternApp.runtimeconfig.json
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\bin\Debug\net5.0\SinglnetonPatternApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\bin\Debug\net5.0\SinglnetonPatternApp.dll
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\bin\Debug\net5.0\ref\SinglnetonPatternApp.dll
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\bin\Debug\net5.0\SinglnetonPatternApp.pdb
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\obj\Debug\net5.0\SinglnetonPatternApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\obj\Debug\net5.0\SinglnetonPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\obj\Debug\net5.0\SinglnetonPatternApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\obj\Debug\net5.0\SinglnetonPatternApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\obj\Debug\net5.0\SinglnetonPatternApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\obj\Debug\net5.0\SinglnetonPatternApp.dll
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\obj\Debug\net5.0\ref\SinglnetonPatternApp.dll
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\obj\Debug\net5.0\SinglnetonPatternApp.pdb
+E:\SwabhavTech\C#\DesignPattern\DesignPatternCreational\SinglnetonPatternApp\obj\Debug\net5.0\SinglnetonPatternApp.genruntimeconfig.cache

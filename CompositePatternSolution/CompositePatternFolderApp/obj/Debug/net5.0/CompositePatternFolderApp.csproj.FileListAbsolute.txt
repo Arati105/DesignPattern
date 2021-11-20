@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\net5.0\CompositePatternFolderApp.exe
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\net5.0\CompositePatternFolderApp.deps.json
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\net5.0\CompositePatternFolderApp.runtimeconfig.json
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\net5.0\CompositePatternFolderApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\net5.0\CompositePatternFolderApp.dll
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\net5.0\ref\CompositePatternFolderApp.dll
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\bin\Debug\net5.0\CompositePatternFolderApp.pdb
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\net5.0\CompositePatternFolderApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\net5.0\CompositePatternFolderApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\net5.0\CompositePatternFolderApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\net5.0\CompositePatternFolderApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\net5.0\CompositePatternFolderApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\net5.0\CompositePatternFolderApp.dll
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\net5.0\ref\CompositePatternFolderApp.dll
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\net5.0\CompositePatternFolderApp.pdb
+E:\SwabhavTech\C#\DesignPattern\CompositePatternSolution\CompositePatternFolderApp\obj\Debug\net5.0\CompositePatternFolderApp.genruntimeconfig.cache

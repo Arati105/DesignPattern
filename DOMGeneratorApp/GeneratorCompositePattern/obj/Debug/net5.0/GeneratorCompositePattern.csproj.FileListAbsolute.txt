@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\bin\Debug\net5.0\GeneratorCompositePattern.exe
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\bin\Debug\net5.0\GeneratorCompositePattern.deps.json
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\bin\Debug\net5.0\GeneratorCompositePattern.runtimeconfig.json
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\bin\Debug\net5.0\GeneratorCompositePattern.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\bin\Debug\net5.0\GeneratorCompositePattern.dll
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\bin\Debug\net5.0\ref\GeneratorCompositePattern.dll
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\bin\Debug\net5.0\GeneratorCompositePattern.pdb
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\obj\Debug\net5.0\GeneratorCompositePattern.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\obj\Debug\net5.0\GeneratorCompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\obj\Debug\net5.0\GeneratorCompositePattern.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\obj\Debug\net5.0\GeneratorCompositePattern.AssemblyInfo.cs
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\obj\Debug\net5.0\GeneratorCompositePattern.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\obj\Debug\net5.0\GeneratorCompositePattern.dll
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\obj\Debug\net5.0\ref\GeneratorCompositePattern.dll
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\obj\Debug\net5.0\GeneratorCompositePattern.pdb
+E:\SwabhavTech\C#\DesignPattern\DOMGeneratorApp\GeneratorCompositePattern\obj\Debug\net5.0\GeneratorCompositePattern.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\bin\Debug\net5.0\FactoryMethodLib.deps.json
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\bin\Debug\net5.0\FactoryMethodLib.dll
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\bin\Debug\net5.0\ref\FactoryMethodLib.dll
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\bin\Debug\net5.0\FactoryMethodLib.pdb
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\obj\Debug\net5.0\FactoryMethodLib.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\obj\Debug\net5.0\FactoryMethodLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\obj\Debug\net5.0\FactoryMethodLib.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\obj\Debug\net5.0\FactoryMethodLib.AssemblyInfo.cs
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\obj\Debug\net5.0\FactoryMethodLib.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\obj\Debug\net5.0\FactoryMethodLib.dll
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\obj\Debug\net5.0\ref\FactoryMethodLib.dll
+E:\SwabhavTech\C#\DesignPattern\FactoryMethodSolution\FactoryMethodLib\obj\Debug\net5.0\FactoryMethodLib.pdb

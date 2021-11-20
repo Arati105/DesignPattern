@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\bin\Debug\net5.0\ProxyDesignSolution.exe
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\bin\Debug\net5.0\ProxyDesignSolution.deps.json
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\bin\Debug\net5.0\ProxyDesignSolution.runtimeconfig.json
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\bin\Debug\net5.0\ProxyDesignSolution.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\bin\Debug\net5.0\ProxyDesignSolution.dll
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\bin\Debug\net5.0\ref\ProxyDesignSolution.dll
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\bin\Debug\net5.0\ProxyDesignSolution.pdb
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\obj\Debug\net5.0\ProxyDesignSolution.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\obj\Debug\net5.0\ProxyDesignSolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\obj\Debug\net5.0\ProxyDesignSolution.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\obj\Debug\net5.0\ProxyDesignSolution.AssemblyInfo.cs
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\obj\Debug\net5.0\ProxyDesignSolution.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\obj\Debug\net5.0\ProxyDesignSolution.dll
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\obj\Debug\net5.0\ref\ProxyDesignSolution.dll
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\obj\Debug\net5.0\ProxyDesignSolution.pdb
+E:\SwabhavTech\C#\DesignPattern\ProxyDesignPattern\ProxyDesignSolution\obj\Debug\net5.0\ProxyDesignSolution.genruntimeconfig.cache

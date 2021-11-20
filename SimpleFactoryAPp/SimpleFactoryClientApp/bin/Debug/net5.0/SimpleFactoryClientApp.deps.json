@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimpleFactoryClientApp/1.0.0": {
+        "dependencies": {
+          "SimpleFactoryLib": "1.0.0"
+        },
+        "runtime": {
+          "SimpleFactoryClientApp.dll": {}
+        }
+      },
+      "SimpleFactoryLib/1.0.0": {
+        "runtime": {
+          "SimpleFactoryLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleFactoryClientApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleFactoryLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

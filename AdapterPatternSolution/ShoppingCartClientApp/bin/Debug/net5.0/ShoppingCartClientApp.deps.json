@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ShoppingCartClientApp/1.0.0": {
+        "dependencies": {
+          "FancyItemsExternalLib": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingCartClientApp.dll": {}
+        }
+      },
+      "FancyItemsExternalLib/1.0.0": {
+        "runtime": {
+          "FancyItemsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingCartClientApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FancyItemsExternalLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

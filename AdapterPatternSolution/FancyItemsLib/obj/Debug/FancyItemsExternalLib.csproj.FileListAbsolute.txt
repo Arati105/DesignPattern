@@ -1,0 +1,6 @@
+E:\SwabhavTech\C#\DesignPattern\AdapterPatternSolution\FancyItemsLib\bin\Debug\FancyItemsLib.dll
+E:\SwabhavTech\C#\DesignPattern\AdapterPatternSolution\FancyItemsLib\bin\Debug\FancyItemsLib.pdb
+E:\SwabhavTech\C#\DesignPattern\AdapterPatternSolution\FancyItemsLib\obj\Debug\FancyItemsExternalLib.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DesignPattern\AdapterPatternSolution\FancyItemsLib\obj\Debug\FancyItemsExternalLib.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DesignPattern\AdapterPatternSolution\FancyItemsLib\obj\Debug\FancyItemsLib.dll
+E:\SwabhavTech\C#\DesignPattern\AdapterPatternSolution\FancyItemsLib\obj\Debug\FancyItemsLib.pdb

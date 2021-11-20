@@ -1,0 +1,16 @@
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\bin\Debug\net5.0\GenericQueueApp.exe
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\bin\Debug\net5.0\GenericQueueApp.deps.json
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\bin\Debug\net5.0\GenericQueueApp.runtimeconfig.json
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\bin\Debug\net5.0\GenericQueueApp.runtimeconfig.dev.json
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\bin\Debug\net5.0\GenericQueueApp.dll
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\bin\Debug\net5.0\ref\GenericQueueApp.dll
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\bin\Debug\net5.0\GenericQueueApp.pdb
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\obj\Debug\net5.0\GenericQueueApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\obj\Debug\net5.0\GenericQueueApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\obj\Debug\net5.0\GenericQueueApp.AssemblyInfoInputs.cache
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\obj\Debug\net5.0\GenericQueueApp.AssemblyInfo.cs
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\obj\Debug\net5.0\GenericQueueApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\obj\Debug\net5.0\GenericQueueApp.dll
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\obj\Debug\net5.0\ref\GenericQueueApp.dll
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\obj\Debug\net5.0\GenericQueueApp.pdb
+E:\SwabhavTech\C#\DesignPattern\GenericQueueApp\GenericQueueApp\obj\Debug\net5.0\GenericQueueApp.genruntimeconfig.cache
